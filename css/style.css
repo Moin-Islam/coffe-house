@@ -951,7 +951,7 @@ label.error{
     opacity:1
 }
 .slide-personal-intro{
-    background-image:url(../img/scene1.png);
+    background-image:url(../img/scene1.jpg);
     background-size:cover
 }
 .slide-bg{
@@ -975,19 +975,6 @@ label.error{
     background-size:cover;
     background-repeat:no-repeat;
     background-position:50% 50%
-}
-.slide-intro-man{
-    background-image:url(../img/bg-personal-intro-man.png);
-    background-position:50% 50%
-}
-.slide-intro-man2{
-    width:36.82291667%;
-    height:91.01851852%;
-    background-image:url(../img/bg-personal-intro-man2.png);
-    background-size:contain;
-    background-position:0 100%;
-    bottom:0;
-    right:13.02083333%
 }
 .slide-intro-circle1{
     width:10.0625rem;
