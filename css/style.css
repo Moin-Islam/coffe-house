@@ -1150,8 +1150,21 @@ label.error{
 .slide-projects-more:hover{
     text-decoration:none
 }
-.slide-personal-awards .slide-bg{
-    background-image:url(../img/bg-personal-awards.png)
+.slide-personal-awards{
+    background-image:url(../img/scene4.jpg)
+	background-size:cover
+}
+.slide-bg{
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    z-index:10;
+    overflow:hidden;
+    background-size:cover;
+    background-position:50% 50%;
+    background-repeat:no-repeat
 }
 .slide-awards-circle1{
     width:8.125rem;
