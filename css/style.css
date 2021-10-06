@@ -394,7 +394,7 @@ label.error{
     -webkit-transform:translate(-50%,-50%);
     transform:translate(-50%,-50%)
 }
-.three-bounce>div{
+/*.three-bounce>div{
     display:inline-block;
     width:18px;
     height:18px;
@@ -402,7 +402,7 @@ label.error{
     background-color:#c06451;
     -webkit-animation:bouncedelay 1.4s infinite ease-in-out both;
     animation:bouncedelay 1.4s infinite ease-in-out both
-}
+}*/
 .three-bounce .one{
     -webkit-animation-delay:-.32s;
     animation-delay:-.32s
@@ -929,12 +929,10 @@ label.error{
 .circle-golden{
     background-color:#b99e64
 }
-.circle-brown{
+/*.circle-brown{
     background-color:#c06451
-}
-.circle-light{
-    background-color:#f5f4f0
-}
+}*/
+
 .circle-green{
     background-color:#5ca595
 }
